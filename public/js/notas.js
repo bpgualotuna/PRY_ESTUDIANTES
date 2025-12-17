@@ -1,4 +1,4 @@
-let notas = [8, 4, 10, 6, 7, 9, 5, 7, 7];
+let notas = [8, 4, 10, 6, 3, 9, 5, 7, 2];
 
 let contadorAprobados = 0;
 let contadorSupletorio = 0;
